@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-App made using React and Typescript. Work in progress !
+App made using React and Typescript. **Work in progress !**
+
+Search for repos on Github like a **boss**. This app shows the stars and forks count, besides the list of open issues. Fell free to improve and share this project.
 
 To run this app just clone this repo and run npm install or yarn, then run npm start or yarn start.
 
