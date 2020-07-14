@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+App made using React and Typescript. Work in progress !
+
+To run this app just clone this repo and choose one of the available scripts below.
+
 ## Available Scripts
 
 In the project directory, you can run:
